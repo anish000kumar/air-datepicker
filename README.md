@@ -8,11 +8,11 @@ Lightweight customizable cross-browser jQuery datepicker, built with es5 and css
 
 ### bower
 ```
-bower i --save air-datepicker
+bower i --save air-datepicker-en
 ```
 ### npm
 ```
-npm i --save air-datepicker
+npm i --save air-datepicker-en
 ```
 
 ## Usage
